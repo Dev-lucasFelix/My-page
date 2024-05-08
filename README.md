@@ -45,7 +45,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## 😉 Nota pessoal:
 
-Nesse projeto consegui ter um contato maior com javascript, levando em consideração minha recente entrada no mundo dev, onde gostei muito e pretendo cade vez mais me aprofundar neste meio. Ademais, não esquecendo que em html e css tambem consegui adentrar de forma mais especifica, tanto na forma pratica quanto teorica.
+Nesse projeto consegui ter um contato maior com javascript, levando em consideração minha recente entrada no mundo dev, onde gostei muito e pretendo cada vez mais me aprofundar neste meio. Ademais, não esquecendo que em html e css tambem consegui adentrar de forma mais especifica, tanto na forma pratica quanto teorica.
 
 ## :memo: Licença
 
